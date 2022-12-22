@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "marca": "Adidas",
+        "modelo": "Forum",
+        "color": "Blanco",
+        "precio": 19499,
+        "imagen": "img/adidas1.jpg"
+    },
+    {
+        "id": 2,
+        "marca": "Adidas",
+        "modelo": "Superstar",
+        "color": "Negro",
+        "precio": 15999,
+        "imagen":  "img/adidas2.jpg"
+    },    
+    {
+        "id": 3,
+        "marca": "Adidas",
+        "modelo": "Forum",
+        "color": "Blanco",
+        "precio": 13499,
+        "imagen": "img/adidas3.jpg"
+    },    
+    {
+        "id": 4,
+        "marca": "Adidas",
+        "modelo": "Ozelia",
+        "color": "Blanco",
+        "precio": 21499,
+        "imagen": "img/adidas4.jpg"
+    },    
+    {
+        "id": 5,
+        "marca": "New Balance",
+        "modelo": "MS237",
+        "color": "Otros",
+        "precio": 21999,
+        "imagen": "img/nb1.jpg"
+    },
+    {
+        "id": 6,
+        "marca": "New Balance",
+        "modelo": "MS237",
+        "color": "Otros",
+        "precio": 21999,
+        "imagen": "img/nb2.jpg"
+    },
+    {
+        "id": 7,
+        "marca": "New Balance",
+        "modelo": "MS237",
+        "color": "Otros",
+        "precio": 21999,
+        "imagen": "img/nb3.jpg"
+    },
+    {
+        "id": 8,
+        "marca": "New Balance",
+        "modelo": "MS237",
+        "color": "Otros",
+        "precio": 21999,
+        "imagen": "img/nb4.jpg"
+    },
+    {
+        "id": 9,
+        "marca": "Nike",
+        "modelo": "React",
+        "color": "Negro",
+        "precio": 25199,
+        "imagen": "img/nike1.jpg"
+    },
+    {
+        "id": 10,
+        "marca": "Nike",
+        "modelo": "Crater",
+        "color": "Negro",
+        "precio": 21499,
+        "imagen": "img/nike2.jpg"
+    },
+    {
+        "id": 11,
+        "marca": "Nike",
+        "modelo": "Air force",
+        "color": "Negro",
+        "precio": 19999,
+        "imagen": "img/nike3.jpg"
+    },
+    {
+        "id": 12,
+        "marca": "Nike",
+        "modelo": "Blazer",
+        "color": "Negro",
+        "precio": 25199,
+        "imagen": "img/nike4.jpg"
+    },
+    {
+        "id": 13,
+        "marca": "Puma",
+        "modelo": "RS-FAST",
+        "color": "Otros",
+        "precio": 24999,
+        "imagen": "img/puma1.jpg"
+    },
+    {
+        "id": 14,
+        "marca": "Puma",
+        "modelo": "RS-FAST",
+        "color": "Otros",
+        "precio": 24999,
+        "imagen": "img/puma2.jpg"
+    },
+    {
+        "id": 15,
+        "marca": "Puma",
+        "modelo": "Cruise",
+        "color": "Otros",
+        "precio": 21499,
+        "imagen": "img/puma3.jpg"
+    },
+    {
+        "id": 16,
+        "marca": "Puma",
+        "modelo": "Cruise",
+        "color": "Otros",
+        "precio": 21499,
+        "imagen": "img/puma4.jpg"
+    },
+    {
+        "id": 17,
+        "marca": "Vans",
+        "modelo": "Old Skool",
+        "color": "Negro",
+        "precio": 17499,
+        "imagen": "img/vans1.jpg"
+    },
+    {
+        "id": 18,
+        "marca": "Vans",
+        "modelo": "Authentic",
+        "color": "Negro",
+        "precio": 12499,
+        "imagen": "img/vans2.jpg"
+    },
+    {
+        "id": 19,
+        "marca": "Vans",
+        "modelo": "Old Skool",
+        "color": "Negro",
+        "precio": 17499,
+        "imagen": "img/vans3.jpg"
+    },
+    {
+        "id": 20,
+        "marca": "Vans",
+        "modelo": "Botas SK8",
+        "color": "Negro",
+        "precio": 20999,
+        "imagen": "img/vans4.jpg"
+    }
+]
